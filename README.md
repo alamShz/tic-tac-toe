@@ -69,14 +69,14 @@ This separation ensures that game logic is independent of the UI.
 
 ---
 
-## 💡 Note
+## Note
 
 This project was built as a learning exercise to understand how real applications manage state and UI updates.
 The focus was on **code structure and reasoning**, not just functionality.
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 git clone <your-repo-link>
@@ -86,7 +86,7 @@ open index.html
 
 ---
 
-## 😄 Author
+## Author
 
 Built as part of learning JavaScript fundamentals and improving problem-solving skills.
 Built With ❤️ by @alamShahnawaz
